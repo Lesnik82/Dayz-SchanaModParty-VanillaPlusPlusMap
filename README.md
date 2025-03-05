@@ -1,4 +1,7 @@
 # Dayz-SchanaModParty-VanillaPlusPlusMap
+WORKS WITH DAYZ 1.27 AND ANY OTHER VERSION OF THE GAME
+
+discord: lesnik82
 
 Dayz-SchanaModParty + VanillaPlusPlusMap
 ![загруженное (1)](https://github.com/user-attachments/assets/75d26a1a-e20b-482b-a6b0-9e1cff81a4dd)
